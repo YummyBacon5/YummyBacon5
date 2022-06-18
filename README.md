@@ -1,5 +1,5 @@
-[YouTube](https://www.youtube.com/YummyBacon5)<br>
-[Speedrun.com](https://www.speedrun.com/user/Yummy_Bacon5)<br>
+[YouTube](https://www.youtube.com/YummyBacon)<br>
+[Speedrun.com](https://www.speedrun.com/user/YUMmy_Bacon5)<br>
 [GitHub](https://github.com/YummyBacon5)<br>
 Discord: Yummy_Bacon5#1725<br>
 
