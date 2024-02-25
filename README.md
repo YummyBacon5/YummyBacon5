@@ -24,4 +24,4 @@
 <!--
 	GitHub forces the `img` to be linked, so I've changed the accName :/
 -->
-<img src="/images/Discord-logo.svg" height="18" width="18" alt title="Discord">Discord: `yummy_bacon5`
+<img src="/images/Discord-logo.svg" height="18" width="18" alt="Discord logo" title="Discord">Discord: `yummy_bacon5`
