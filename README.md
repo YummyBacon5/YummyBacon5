@@ -20,10 +20,8 @@
 	<img src="/images/X-logo.svg" height="18" width="18" alt title="𝕏">𝕏
 </a>
 <br>
+
 <!--
-	Bruh I think this `p` is needed so the text node is on the same line
-	Also, GitHub forces the `img` to be linked, so I've changed the accName :/
+	GitHub forces the `img` to be linked, so I've changed the accName :/
 -->
-<p>
-	<img src="/images/Discord-logo.svg" height="18" width="18" alt="Discord logo" title="Discord">Discord: <code>yummy_bacon5</code>
-</p>
+<img src="/images/Discord-logo.svg" height="18" width="18" alt title="Discord">Discord: `yummy_bacon5`
